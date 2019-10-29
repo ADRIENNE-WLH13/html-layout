@@ -1,0 +1,23 @@
+.body{
+    background-color: silver;
+}
+
+.Center{
+    margin-left: 15vw;
+    height: 70vh;
+    width: 70vw;
+    background-color: white;
+}
+
+.Head{
+    width: 100vw;
+    height: 15vh;
+    background-color: gray;
+}
+
+.Foot{
+    width: 70vw;
+    height: 15vh;
+    background-color: black;
+    margin-left: 15vw;
+}
